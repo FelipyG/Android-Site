@@ -42,6 +42,7 @@ header p{
     font-size: 1.2em;
     font-family: var(--fonte-padrao);
     max-width: 500px;
+    padding-bottom: 15px;
     margin: auto;
 }
 nav{
